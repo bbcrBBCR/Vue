@@ -44,7 +44,7 @@ var Watcher = function Watcher (
     vm, //当前的vue实例
     expOrFn, //传入的getter函数
     cb, //diff算法，一般来自原型链，所以一般传入空函数
-    options 
+    options //状态，如{lazy：true}
   ) {...}
  Watcher.prototype.get = function get () {
     pushTarget(this) //将watcher压栈
