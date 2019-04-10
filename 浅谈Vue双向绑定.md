@@ -1,6 +1,7 @@
 ## 浅谈Vue的双向绑定
 ### 实现原理
-![](https://images2015.cnblogs.com/blog/938664/201705/938664-20170522225458132-1434604303.png)
+  <img src="https://images2015.cnblogs.com/blog/938664/201705/938664-20170522225458132-1434604303.png" width="50%" align=center>
+  
 Vue的双向绑定是使用数据劫持+发布者-订阅者模式进行的。分为三部分：
 * Observer（数据监听器）:进行数据对象的属性监听和更新。
 * Compile（模板解析器）:将template编译成render函数的字符串形式。
@@ -146,6 +147,8 @@ var element = {
 学无止境。
 ### 参考
 vue的双向绑定原理及实现[https://www.cnblogs.com/libin-1/p/6893712.html](https://www.cnblogs.com/libin-1/p/6893712.html)
+
 Vue源码--深入模板渲染[https://blog.csdn.net/qq_36538012/article/details/80171643](https://blog.csdn.net/qq_36538012/article/details/80171643)
+
 Vue 源码解析：深入响应式原理
 [https://github.com/DDFE/DDFE-blog/issues/7](https://github.com/DDFE/DDFE-blog/issues/7)
