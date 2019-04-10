@@ -146,9 +146,9 @@ var element = {
 ### 总结
 学无止境。
 ### 参考
-vue的双向绑定原理及实现[https://www.cnblogs.com/libin-1/p/6893712.html](https://www.cnblogs.com/libin-1/p/6893712.html)
+vue的双向绑定原理及实现 [https://www.cnblogs.com/libin-1/p/6893712.html](https://www.cnblogs.com/libin-1/p/6893712.html)
 
-Vue源码--深入模板渲染[https://blog.csdn.net/qq_36538012/article/details/80171643](https://blog.csdn.net/qq_36538012/article/details/80171643)
+Vue源码--深入模板渲染 [https://blog.csdn.net/qq_36538012/article/details/80171643](https://blog.csdn.net/qq_36538012/article/details/80171643)
 
 Vue 源码解析：深入响应式原理
-[https://github.com/DDFE/DDFE-blog/issues/7](https://github.com/DDFE/DDFE-blog/issues/7)
+ [https://github.com/DDFE/DDFE-blog/issues/7](https://github.com/DDFE/DDFE-blog/issues/7)
